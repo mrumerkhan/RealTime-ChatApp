@@ -1,0 +1,5 @@
+Create NPM Project
+Create index css and js file
+Install dependendies express nodemon
+create express server
+do frontend part
